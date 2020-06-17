@@ -1,0 +1,17 @@
+{
+    "name": "奔跑吧孫悟空",
+    "dependencies": {
+        "device": "*",
+        "animation": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
